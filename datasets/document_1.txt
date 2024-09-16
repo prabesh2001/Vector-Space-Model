@@ -1,0 +1,3 @@
+Title: Understanding Machine Learning Algorithms
+Content:
+Machine learning has revolutionized industries by enabling systems to learn from data and make decisions without explicit programming. Supervised learning, unsupervised learning, and reinforcement learning are the major categories. Supervised learning is the most common approach, where models are trained on labeled data...

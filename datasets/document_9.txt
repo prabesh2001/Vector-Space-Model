@@ -1,0 +1,4 @@
+Title: Introduction to Data Mining
+Content:
+Data mining involves extracting patterns from large datasets to generate valuable insights. Techniques such as clustering, classification, and association rule mining are often used to uncover hidden relationships in data. Popular data mining tools include Weka and RapidMiner...
+

@@ -1,0 +1,4 @@
+Title: The History of Artificial Intelligence
+Content:
+Artificial Intelligence (AI) has its roots in the 1950s when Alan Turing proposed the concept of machines mimicking human intelligence. The field has since seen numerous advancements, such as expert systems in the 1980s, and more recently, the rise of deep learning...
+

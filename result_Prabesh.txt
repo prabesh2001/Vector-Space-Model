@@ -1,0 +1,30 @@
+
+Top 3 results for query 'Deep Learning ':
+Rank 1: Document 11 with score 0.2351
+Rank 2: Document 4 with score 0.0950
+Rank 3: Document 3 with score 0.0911
+
+Top 3 results for query 'Data mining ':
+Rank 1: Document 10 with score 0.6608
+Rank 2: Document 9 with score 0.1209
+Rank 3: Document 7 with score 0.1065
+
+Top 3 results for query ' machine learning':
+Rank 1: Document 2 with score 0.2157
+Rank 2: Document 7 with score 0.1622
+Rank 3: Document 6 with score 0.1328
+
+Top 3 results for query 'Computer vision':
+Rank 1: Document 5 with score 0.4220
+Rank 2: Document 4 with score 0.0675
+Rank 3: Document 1 with score 0.0000
+
+Top 3 results for query 'Artificial Inteliigence':
+Rank 1: Document 3 with score 0.3364
+Rank 2: Document 1 with score 0.0000
+Rank 3: Document 2 with score 0.0000
+
+Top 3 results for query ' human ':
+Rank 1: Document 3 with score 0.1282
+Rank 2: Document 4 with score 0.1114
+Rank 3: Document 1 with score 0.0000

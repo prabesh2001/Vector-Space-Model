@@ -1,0 +1,3 @@
+Title: Exploring Reinforcement Learning
+Content:
+Reinforcement learning (RL) is a subset of machine learning where agents learn to make decisions by interacting with an environment. Key concepts in RL include rewards, states, and actions. Some famous applications include AlphaGo, where RL was used to master the game of Go...
